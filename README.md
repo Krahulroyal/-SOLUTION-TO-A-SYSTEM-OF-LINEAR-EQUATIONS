@@ -23,7 +23,7 @@ B=np.array ([5,-3])
 result=np. linalg.solve (A,B)
 print (result)
 ## Output:
-![Screenshot 2024-12-08 211055](https://github.com/user-attachments/assets/2768373b-8fe3-4d06-8162-091430ddc960)
+![alt text](image.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
